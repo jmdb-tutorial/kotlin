@@ -6,6 +6,7 @@ import org.junit.Test
 class JUnit4StringTest {
 
     @Test fun simple() {
-        assertEquals("foo", "bar")
+        assertEquals("foo", "foo")
     }
 }
+
